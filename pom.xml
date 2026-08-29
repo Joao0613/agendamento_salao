@@ -8,6 +8,15 @@
     <artifactId>pi-agendamento-salao</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
+    <dependencies>
+        <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter</artifactId>
+        <version>5.10.2</version>
+        <scope>test</scope>
+    </dependency>
+    </dependencies>
+    
 
     <name>PI - Sistema de Agendamento de Salao (Fase de Refatoracao SOLID)</name>
 
